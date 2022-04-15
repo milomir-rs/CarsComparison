@@ -17,7 +17,5 @@ public class Main {
 
         Car lada = new Car("Lada", 1998, 10.3f);
         lada.printInConsole();
-
-
     }
 }
